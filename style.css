@@ -1,6 +1,9 @@
 body {
   background: #f4f4f4 !important;
 }
+#main {
+  min-height: calc(100vh - 310px);
+}
 
 /* Navbar */
 .navbar {
